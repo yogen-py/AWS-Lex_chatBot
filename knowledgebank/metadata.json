@@ -1,0 +1,265 @@
+{
+  "knowledge_base_info": {
+    "name": "First National Bank Internal Documentation",
+    "version": "2024.1",
+    "last_updated": "2024-01-15",
+    "total_documents": 5,
+    "file_format": "docx",
+    "storage_location": "s3://banking-kb/knowledgebase/",
+    "update_frequency": "quarterly"
+  },
+  "documents": [
+    {
+      "file_name": "account-management.docx",
+      "title": "Account Opening and Management Procedures",
+      "category": "Account Management",
+      "document_type": "Policy Manual",
+      "last_modified": "2024-01-15",
+      "file_size_mb": 2.3,
+      "page_count": 28,
+      "author": "Operations Department",
+      "reviewer": "Compliance Team",
+      "approval_date": "2024-01-15",
+      "next_review": "2024-07-15",
+      "tags": [
+        "account opening",
+        "KYC",
+        "compliance", 
+        "procedures",
+        "documentation requirements",
+        "account types",
+        "customer onboarding"
+      ],
+      "summary": "Complete guide covering account opening procedures, required documentation, KYC compliance, account types, and customer onboarding processes for all customer service representatives.",
+      "target_audience": [
+        "Customer Service Representatives",
+        "Branch Staff",
+        "New Employee Training"
+      ],
+      "key_sections": [
+        "Account Opening Overview",
+        "Required Documentation",
+        "Account Types Available", 
+        "KYC and Compliance Procedures",
+        "Account Opening Process Flow",
+        "Special Circumstances",
+        "Post-Opening Procedures"
+      ],
+      "regulatory_references": [
+        "Bank Secrecy Act (BSA)",
+        "Customer Identification Program (CIP)",
+        "OFAC Compliance",
+        "Patriot Act"
+      ]
+    },
+    {
+      "file_name": "transfer-limits-policy.docx",
+      "title": "Fund Transfer Limits and Transaction Policy",
+      "category": "Transaction Processing",
+      "document_type": "Policy Document",
+      "last_modified": "2024-01-10",
+      "file_size_mb": 1.8,
+      "page_count": 22,
+      "author": "Risk Management Department",
+      "reviewer": "Operations Team",
+      "approval_date": "2024-01-10",
+      "next_review": "2024-04-10",
+      "tags": [
+        "transfer limits",
+        "fraud prevention",
+        "compliance",
+        "regulations",
+        "daily limits",
+        "wire transfers",
+        "ACH limits",
+        "mobile banking"
+      ],
+      "summary": "Comprehensive policy document outlining daily, monthly, and transaction limits for various transfer methods, channels, and account types with fraud prevention measures.",
+      "target_audience": [
+        "Customer Service Representatives",
+        "Compliance Staff",
+        "Risk Management Team",
+        "Operations Staff"
+      ],
+      "key_sections": [
+        "Overview of Transfer Limits",
+        "Daily Transfer Limits by Channel",
+        "Monthly and Transaction Limits",
+        "Regulatory Compliance",
+        "Limit Override Procedures",
+        "Fraud Prevention Measures",
+        "Customer Communication"
+      ],
+      "regulatory_references": [
+        "Regulation D",
+        "Bank Secrecy Act (BSA)",
+        "Currency Transaction Reporting (CTR)",
+        "Anti-Money Laundering (AML)"
+      ]
+    },
+    {
+      "file_name": "interest-rates-guide.docx",
+      "title": "Interest Rates and Product Pricing Guide",
+      "category": "Product Information",
+      "document_type": "Rate Sheet",
+      "last_modified": "2024-01-01",
+      "file_size_mb": 1.5,
+      "page_count": 18,
+      "author": "Treasury Department",
+      "reviewer": "Product Management",
+      "approval_date": "2024-01-01",
+      "next_review": "2024-02-01",
+      "tags": [
+        "interest rates",
+        "deposits",
+        "loans",
+        "pricing",
+        "APY",
+        "APR",
+        "CD rates",
+        "mortgage rates",
+        "promotional rates"
+      ],
+      "summary": "Current interest rates for all deposit and loan products including eligibility criteria, promotional offers, rate factors, and customer communication guidelines.",
+      "target_audience": [
+        "Customer Service Representatives",
+        "Sales Staff",
+        "Branch Personnel",
+        "Loan Officers"
+      ],
+      "key_sections": [
+        "Current Deposit Rates",
+        "Loan Interest Rates",
+        "Business Banking Rates",
+        "Rate Factors and Adjustments",
+        "Rate Change Procedures",
+        "Promotional Rates",
+        "Rate Inquiries and Quotes"
+      ],
+      "update_schedule": "monthly",
+      "rate_effective_date": "2024-01-01"
+    },
+    {
+      "file_name": "loan-eligibility-criteria.docx",
+      "title": "Loan Eligibility and Underwriting Criteria",
+      "category": "Lending",
+      "document_type": "Underwriting Guide",
+      "last_modified": "2024-01-05",
+      "file_size_mb": 2.1,
+      "page_count": 32,
+      "author": "Lending Department",
+      "reviewer": "Credit Risk Team",
+      "approval_date": "2024-01-05",
+      "next_review": "2024-07-05",
+      "tags": [
+        "loan eligibility",
+        "underwriting",
+        "credit requirements",
+        "DTI",
+        "credit score",
+        "income verification",
+        "collateral",
+        "down payment"
+      ],
+      "summary": "Detailed eligibility requirements for all loan products including credit score requirements, income verification, debt-to-income ratios, and special program criteria.",
+      "target_audience": [
+        "Loan Officers",
+        "Customer Service Representatives",
+        "Underwriters",
+        "Credit Analysts"
+      ],
+      "key_sections": [
+        "General Eligibility Requirements",
+        "Credit Score Requirements",
+        "Income and Employment Verification",
+        "Debt-to-Income Ratios",
+        "Asset and Down Payment Requirements",
+        "Property Requirements",
+        "Disqualifying Factors",
+        "Special Programs and Exceptions",
+        "Application Review Process"
+      ],
+      "loan_types_covered": [
+        "Personal Loans",
+        "Auto Loans",
+        "Mortgage Loans",
+        "Home Equity Products",
+        "Business Loans"
+      ]
+    },
+    {
+      "file_name": "escalation-policies.docx",
+      "title": "Customer Service Escalation Policies and Procedures",
+      "category": "Customer Service",
+      "document_type": "Policy Manual",
+      "last_modified": "2024-01-12",
+      "file_size_mb": 1.9,
+      "page_count": 25,
+      "author": "Customer Service Department",
+      "reviewer": "Management Team",
+      "approval_date": "2024-01-12",
+      "next_review": "2024-07-12",
+      "tags": [
+        "escalation",
+        "customer service",
+        "authority limits",
+        "procedures",
+        "complaint handling",
+        "management escalation",
+        "resolution procedures"
+      ],
+      "summary": "Complete escalation procedures, authority limits, and resolution guidelines for customer service representatives and management at all levels.",
+      "target_audience": [
+        "Customer Service Representatives",
+        "Team Leads",
+        "Managers",
+        "Senior Management",
+        "Training Department"
+      ],
+      "key_sections": [
+        "Escalation Overview and Principles",
+        "Level 1 - Customer Service Representative",
+        "Level 2 - Team Lead/Supervisor", 
+        "Level 3 - Customer Service Manager",
+        "Level 4 - Regional Manager/Director",
+        "Level 5 - Executive Team",
+        "Escalation Procedures",
+        "Special Escalation Categories",
+        "Documentation Requirements",
+        "Training and Quality Assurance"
+      ],
+      "escalation_levels": 5,
+      "max_resolution_time": "48 hours",
+      "special_categories": [
+        "Regulatory Complaints",
+        "Discrimination Allegations", 
+        "Fraud Claims",
+        "Media/Social Media Issues"
+      ]
+    }
+  ],
+  "bedrock_configuration": {
+    "chunking_strategy": "default",
+    "overlap_percentage": 20,
+    "max_tokens_per_chunk": 300,
+    "embedding_model": "amazon.titan-embed-text-v1",
+    "vector_store": "opensearch_serverless"
+  },
+  "access_control": {
+    "classification": "internal_use_only",
+    "authorized_roles": [
+      "customer_service_rep",
+      "team_lead",
+      "manager",
+      "compliance_officer",
+      "training_coordinator"
+    ],
+    "last_security_review": "2024-01-15"
+  },
+  "maintenance_schedule": {
+    "content_review": "quarterly",
+    "compliance_review": "annually", 
+    "system_update": "monthly",
+    "next_full_review": "2024-07-15"
+  }
+}
